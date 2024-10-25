@@ -10,7 +10,4 @@ Steps:
 5. **Box-plot Analysis**.
 
 Note:
-  PPG - Photoplethysmogram
-  ECG - Electrocardiogram
-  PRV - Pulse Rate Variability
-  HRV - Heart Rate Variability
+  PPG - Photoplethysmogram; ECG - Electrocardiogram; PRV - Pulse Rate Variability; HRV - Heart Rate Variability
