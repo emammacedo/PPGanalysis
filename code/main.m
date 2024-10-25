@@ -2,7 +2,7 @@ clc, clear all, close all;
 
 %% Dataset selection
 
-data = load('database_ProfPaulo.mat');
+data = load('database.mat');
 fs = 500;
 
 [ECG, PPG] = import_data (data, (1/fs));
